@@ -23,10 +23,3 @@ and save to:
 ![ResourcePacks Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/a2276febe10d672135db371769c757fd4157f3d3/screenshots/resourcepacks-screenshot.png)
 
 ==========
-
-
-    
-## Screenshots
-
-![ResourcePacks Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/a2276febe10d672135db371769c757fd4157f3d3/screenshots/resourcepacks-screenshot.png)
-
