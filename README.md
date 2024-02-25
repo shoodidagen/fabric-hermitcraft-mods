@@ -59,8 +59,9 @@ Click the large 'DOWNLOAD' button. Then, with Minecraft NOT running, open the in
 
 ![Fabric Open Installer Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/69fd2b14008438632c4c527e6c640773b614ad54/screenshots/OpenFabricInstaller.png)
 
-This should locate your default launcher location which may look something like c:\users\<yourname>\Roaming\\.minecraft
+This should locate your default launcher location AUTOMATICALLY which may look something like c:\users\<yourname>\Roaming\\.minecraft
 
+If it automatically populates, you can simply click INSTALL.
 However, if not, input the location of your minecraft install. In the screenshot i've used %appdata%.
 
 ![Fabric Installer Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/918df9406ee6219335fd8ec3cc1ec115bb251a14/screenshots/FabricInstaller.png)
