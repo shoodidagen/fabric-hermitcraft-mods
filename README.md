@@ -18,7 +18,7 @@ https://github.com/shoodidagen/fabric-hermitcraft-mods/tree/0d9b064055a997e0c0dc
 
 and save to:
 
-%appdata%\Roaming\.minecraft\resourcepacks
+"%appdata%\Roaming\.minecraft\resourcepacks"
 
 ![ResourcePacks Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/a2276febe10d672135db371769c757fd4157f3d3/screenshots/resourcepacks-screenshot.png)
 
