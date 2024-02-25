@@ -1,4 +1,13 @@
+# fabric-hermitcraft-mods
+A collection of Mod files for Minecraft 1.20.4.
 
+These have been tested while running a Fabric Minecraft cient connecting to a Vanilla Minecraft Server.
+
+Mod ideas were taken from xisumavoid's YouTube Video
+ https://www.youtube.com/watch?v=8k23giaWP64
+
+
+I have only focused on Client Side mods here. No Server mods have been explored yet.
 ## Installation of Resource Packs
 
 Disclaimer - All of the below is very safe to do, but please be aware that you do this at your own risk.
@@ -68,4 +77,4 @@ This will allow you to configure mods:
 
 ![Mods Menu Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/319f805add84ad0dbf74841156ecc829f152e977/screenshots/Mods%20Menu.png)
 
-Now - Connect to any vanilla server and have fun!
+Now - Connect to any vanilla server and have fun!****
