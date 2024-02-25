@@ -8,9 +8,13 @@ Mod ideas were taken from xisumavoid's YouTube Video
 
 
 I have only focused on Client Side mods here. No Server mods have been explored yet.
-## Installation of Resource Packs
+
 
 Disclaimer - All of the below is very safe to do, but please be aware that you do this at your own risk.
+
+## Installation of Resource Packs
+
+MINECRAFT CAN REMAIN RUNNING WHEN INSTALLING RESOURCE PACKS.
 
 Resource packs are all taken from https://vanillatweaks.net/picker/resource-packs/
 
@@ -24,9 +28,22 @@ and save to:
 
 ![ResourcePacks Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/a2276febe10d672135db371769c757fd4157f3d3/screenshots/resourcepacks-screenshot.png)
 
+To enable these - Select 'Resource Packs' from the main minecraft menu:
+
+![ResourcePacks Menu Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/9afe5552b5a4988a482e531f1957572366de9f37/screenshots/ResourePacksMainMenu.png)
+
+Then Enable the Resource Packs.
+NOTE - DO NOT ENABLE THE ONE CALLED VanillaTweaks_LightLevels.zip - This is very useful but only use this when you specifically need to see light levels.
+
+![ResourcePacks Enable Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/b498a52394ba15be45584c47b321a64ef2f84649/screenshots/ResourcePacksThing.png)
+
+Resource packs can be enabled from the main menu in Minecraft and also 'on the fly' whilst connected to a server/game.
+
 ==========
 
 ## Installation of Client-Side Mods
+
+MINECRAFT SHOULD BE CLOSED AND NOT RUNNING WHEN INSTALLING THE MODS
 
 Mods are only for version 1.20.4 - URLS will be placed here to provide ability to grab updated mods for later versions.
 
@@ -77,4 +94,4 @@ This will allow you to configure mods:
 
 ![Mods Menu Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/319f805add84ad0dbf74841156ecc829f152e977/screenshots/Mods%20Menu.png)
 
-Now - Connect to any vanilla server and have fun!****
+Now - Connect to any vanilla server and have fun!
