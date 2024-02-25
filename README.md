@@ -33,7 +33,7 @@ To enable these - Select 'Resource Packs' from the main minecraft menu:
 ![ResourcePacks Menu Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/9afe5552b5a4988a482e531f1957572366de9f37/screenshots/ResourePacksMainMenu.png)
 
 Then Enable the Resource Packs.
-NOTE - DO NOT ENABLE THE ONE CALLED VanillaTweaks_LightLevels.zip - This is very useful but only use this when you specifically need to see light levels.
+### NOTE - DO NOT ENABLE THE ONE CALLED VanillaTweaks_LightLevels.zip - This is very useful but only use this when you specifically need to see light levels.
 
 ![ResourcePacks Enable Screenshot](https://github.com/shoodidagen/fabric-hermitcraft-mods/blob/b498a52394ba15be45584c47b321a64ef2f84649/screenshots/ResourcePacksThing.png)
 
